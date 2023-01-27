@@ -6,7 +6,7 @@
 <h1>Lets Go DU</h1>
 <center>
   <p>Denver University Hockey</p>
-  <p>This site is not affiliated with the University of Denver or the DU Athletic Department.</p>
+  <p>This site is not affiliated with the University of Denver or the DU Athletic Department or LetsGoDU.com.</p>
 </center>
 </body>
 
